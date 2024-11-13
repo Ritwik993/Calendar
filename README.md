@@ -40,3 +40,13 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/Ritwik993/Calendar.git
+2. cd client
+
+   ```bash
+   npm install
+   npm start
+3. cd api
+
+   ```bash
+   npm install
+   npm run start:dev
