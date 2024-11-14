@@ -24,8 +24,6 @@ A simple calendar application to manage and view events. Users can create events
 
 
 
-Check out the live demo here: [Insert demo link if available]
-
 ## Installation
 
 To run this project locally, follow these steps:
