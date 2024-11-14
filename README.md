@@ -20,8 +20,9 @@ A simple calendar application to manage and view events. Users can create events
 - **React-Toastify**: For displaying notifications (toast messages).
 
 ## Demo
+![image](https://github.com/user-attachments/assets/12750f67-9385-4cdb-89bd-9a9a4ad1656d)
 
-![Calendar Demo](path-to-image.jpg)
+
 
 Check out the live demo here: [Insert demo link if available]
 
